@@ -2,7 +2,7 @@ package main
 
 // import "strUtils"
 import "fmt"
-import "GoUtils/strUtils"
+import "ggo/strUtils"
 
 func main() {
     a := "abc"
